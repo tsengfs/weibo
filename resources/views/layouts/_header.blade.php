@@ -1,4 +1,3 @@
-layouts/_header.blade.php
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container ">
     <a class="navbar-brand" href="{{ route('home') }}">Weibo App</a>
